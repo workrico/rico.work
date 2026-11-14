@@ -1,0 +1,1007 @@
+{
+ "fonte": "InfoMoney",
+ "origem": "sitemap",
+ "atualizado": "2026-11-14T11:07:50+00:00",
+ "fontes": {
+  "ultimas": [
+   {
+    "titulo": "De ‘orgulho de Taiwan’ a pivô de escândalo com traição: a trajetória de Jensen Huang",
+    "link": "https://www.infomoney.com.br/business/de-orgulho-de-taiwan-a-pivo-de-escandalo-com-traicao-a-trajetoria-de-jensen-huang/",
+    "data": "2026-11-14T07:00:00+00:00",
+    "categoria": "Business"
+   },
+   {
+    "titulo": "Trump descarta ataque hacker e IA em apagão que parou voos nos EUA",
+    "link": "https://www.infomoney.com.br/mercados/trump-descarta-ataque-hacker-e-ia-em-apagao-que-parou-voos-nos-eua/",
+    "data": "2026-11-14T03:00:06+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Cosan anuncia saída do CEO Marcelo Martins e nomeia Guilherme Penin como interino",
+    "link": "https://www.infomoney.com.br/mercados/cosan-anuncia-saida-do-ceo-marcelo-martins-e-nomeia-guilherme-penin-como-interino/",
+    "data": "2026-11-14T02:56:23+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Falha de IA ou ataque hacker? O que se sabe sobre o apagão que parou os voos nos EUA",
+    "link": "https://www.infomoney.com.br/mundo/falha-de-ia-ou-ataque-hacker-o-que-se-sabe-sobre-o-apagao-que-parou-os-voos-nos-eua/",
+    "data": "2026-11-14T02:52:38+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "“Vai levar tempo”: EUA reabrem espaço aéreo, mas governo alerta para retomada lenta",
+    "link": "https://www.infomoney.com.br/mundo/vai-levar-tempo-eua-reabrem-espaco-aereo-mas-governo-alerta-para-retomada-lenta/",
+    "data": "2026-11-14T02:48:14+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Trump vai se reunir com Xi e Putin na China",
+    "link": "https://www.infomoney.com.br/mundo/trump-vai-se-reunir-com-xi-e-putin-na-china/",
+    "data": "2026-11-14T02:45:15+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "EUA retomam voos após apagão de mais de quatro horas no controle aéreo",
+    "link": "https://www.infomoney.com.br/mundo/eua-retomam-voos-apos-apagao-de-mais-de-quatro-horas-no-controle-aereo/",
+    "data": "2026-11-14T02:38:45+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Gol diz que dois voos previstos dos EUA para Brasília hoje estão mantidos",
+    "link": "https://www.infomoney.com.br/brasil/gol-diz-que-dois-voos-previstos-dos-eua-para-brasilia-hoje-estao-mantidos/",
+    "data": "2026-11-14T00:33:47+00:00",
+    "categoria": "Brasil"
+   },
+   {
+    "titulo": "Falha no controle aéreo dos EUA leva Aeroporto de Guarulhos a manter voos em solo",
+    "link": "https://www.infomoney.com.br/brasil/falha-no-controle-aereo-dos-eua-leva-aeroporto-de-guarulhos-a-manter-voos-em-solo/",
+    "data": "2026-11-14T00:29:28+00:00",
+    "categoria": "Brasil"
+   },
+   {
+    "titulo": "Voos cancelados nos EUA ultrapassam 3 mil; partidas do Brasil para o Canadá atrasam",
+    "link": "https://www.infomoney.com.br/mundo/voos-cancelados-nos-eua-ultrapassam-3-mil-partidas-do-brasil-para-o-canada-atrasam/",
+    "data": "2026-11-14T00:26:19+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Falha do tráfego aéreo não será resolvida de forma rápida, diz secretário dos EUA",
+    "link": "https://www.infomoney.com.br/mundo/falha-do-trafego-aereo-nao-sera-resolvida-de-forma-rapida-diz-secretario-dos-eua/",
+    "data": "2026-11-13T23:54:40+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Serviço Nacional de Meteorologia dos EUA relata problemas de internet em todo o país",
+    "link": "https://www.infomoney.com.br/mundo/servico-nacional-de-meteorologia-dos-eua-relata-problemas-de-internet-em-todo-o-pais/",
+    "data": "2026-11-13T23:07:15+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "EUA suspendem decolagens em todo o país pela primeira vez desde 2023",
+    "link": "https://www.infomoney.com.br/mundo/eua-suspendem-decolagens-em-todo-o-pais-pela-primeira-vez-desde-2023/",
+    "data": "2026-11-13T22:45:05+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Tesouro suspende sistemas e tira dados fiscais do ar após ataque",
+    "link": "https://www.infomoney.com.br/onde-investir/tesouro-suspende-sistemas-e-tira-dados-fiscais-do-ar-apos-ataque/",
+    "data": "2026-11-13T22:36:57+00:00",
+    "categoria": "Onde investir"
+   },
+   {
+    "titulo": "Não é outro 11 de Setembro, diz secretário dos EUA sobre pane que paralisou voos",
+    "link": "https://www.infomoney.com.br/mundo/nao-e-outro-11-de-setembro-diz-secretario-dos-eua-sobre-pane-que-paralisou-voos/",
+    "data": "2026-11-13T22:33:37+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "FBI investiga se atualização de software provocou apagão aéreo nos EUA",
+    "link": "https://www.infomoney.com.br/mundo/fbi-investiga-se-atualizacao-de-software-provocou-apagao-aereo-nos-eua/",
+    "data": "2026-11-13T22:22:44+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Toffoli dá três dias para Lula e Alckmin explicarem despesas de campanha",
+    "link": "https://www.infomoney.com.br/politica/toffoli-da-tres-dias-para-lula-e-alckmin-explicarem-despesas-de-campanha/",
+    "data": "2026-11-13T22:16:10+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Subvenção de R$ 1,40 ao diesel importado não será renovada, diz ministério",
+    "link": "https://www.infomoney.com.br/economia/subvencao-de-r140-ao-diesel-importado-nao-sera-renovada-diz-ministerio/",
+    "data": "2026-11-13T22:13:42+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "Casas Bahia e GPA fazem acordo e encerram disputa por associação de 2009; entenda",
+    "link": "https://www.infomoney.com.br/mercados/casas-bahia-e-gpa-fazem-acordo-e-encerrar-disputam-por-associacao-de-2009-entenda/",
+    "data": "2026-11-13T21:49:56+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Bolsas de NY fecham sem direção única com perdas de techs em meio à crise da Nvidia",
+    "link": "https://www.infomoney.com.br/mercados/wall-street-devolve-ganhos-iniciais-com-queda-de-techs-por-turbulencia-com-nvidia/",
+    "data": "2026-11-13T21:45:22+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Ibovespa sobe 0,66% nesta 6ª e 2,35% na semana com mercado de olho em pacote fiscal",
+    "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-com-apoio-de-petrobras-em-meio-a-incertezas-fiscais-elevadas-no-brasil/",
+    "data": "2026-11-13T21:43:13+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Encerramos nossa cobertura dos Mercados Ao Vivo",
+    "link": "https://www.infomoney.com.br/live/encerramos-nossa-cobertura-dos-mercados-ao-vivo-1049/",
+    "data": "2026-11-13T21:33:52+00:00",
+    "categoria": "Live"
+   },
+   {
+    "titulo": "Mini-índice com vencimento em dezembro de 2026 (WINZ26) termina dia com alta de 0,85%, aos 174.230 pontos",
+    "link": "https://www.infomoney.com.br/live/mini-indice-com-vencimento-em-dezembro-de-2026-winz26-termina-dia-com-alta-de-085-aos-174-230-pontos/",
+    "data": "2026-11-13T21:33:20+00:00",
+    "categoria": "Live"
+   },
+   {
+    "titulo": "Minidólar com vencimento em dezembro (WDOZ26) fecha com alta de 0,42%, cotado a 5.683,50",
+    "link": "https://www.infomoney.com.br/live/minidolar-com-vencimento-em-dezembro-wdoz26-fecha-com-alta-de-042-cotado-a-5-68350/",
+    "data": "2026-11-13T21:33:05+00:00",
+    "categoria": "Live"
+   },
+   {
+    "titulo": "Bitcoin Futuro (BITFUT) fecha sessão com menos 3,49%, aos 388.460,00",
+    "link": "https://www.infomoney.com.br/live/bitcoin-futuro-bitfut-fecha-sessao-com-menos-349-aos-388-46000/",
+    "data": "2026-11-13T21:32:51+00:00",
+    "categoria": "Live"
+   },
+   {
+    "titulo": "Dólar Futuro (DOLFUT) termina com alta de 0,42%, aos 5.684,00",
+    "link": "https://www.infomoney.com.br/live/dolar-futuro-dolfut-termina-com-alta-de-042-aos-5-68400/",
+    "data": "2026-11-13T21:32:30+00:00",
+    "categoria": "Live"
+   },
+   {
+    "titulo": "Ibovespa Futuro (INDFUT) fecha o dia com alta de 0,82%, aos 174.190 pontos",
+    "link": "https://www.infomoney.com.br/live/ibovespa-futuro-indfut-fecha-o-dia-com-alta-de-082-aos-174-190-pontos/",
+    "data": "2026-11-13T21:32:20+00:00",
+    "categoria": "Live"
+   },
+   {
+    "titulo": "Ibovespa retoma o caminho da vitória e tem segunda semana positiva; dólar sobe",
+    "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13112026/",
+    "data": "2026-11-13T21:28:53+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "CSN desaba 12% e CSN Mineração cai 3,7% após resultados abaixo do esperado",
+    "link": "https://www.infomoney.com.br/mercados/csn-e-csn-mineracao-caem-forte-apos-resultados-do-3t26-ficarem-abaixo-do-esperado/",
+    "data": "2026-11-13T21:27:30+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Compass e Rumo saltam após balanços e “puxam” Cosan; veja o que agradou mercado",
+    "link": "https://www.infomoney.com.br/mercados/compass-e-rumo-sobem-apos-balancos-e-puxam-cosan-veja-o-que-agradou-mercado/",
+    "data": "2026-11-13T21:24:53+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Natura (NATU3) cai 3,75% mesmo após voltar ao lucro; veja o que preocupa analistas",
+    "link": "https://www.infomoney.com.br/mercados/natura-natu3-cai-5-mesmo-apos-voltar-ao-lucro-veja-o-que-preocupa-analistas/",
+    "data": "2026-11-13T21:22:14+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Cyrela (CYRE3): ações registram ganhos de quase 4% após resultados do 3º tri",
+    "link": "https://www.infomoney.com.br/mercados/cyrela-cyre3-acoes-registram-ganhos-apos-resultados-do-3o-tri/",
+    "data": "2026-11-13T21:20:33+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Em meio a racha no PL, Valdemar evita assumir posição sobre apoio a Motta",
+    "link": "https://www.infomoney.com.br/politica/em-meio-a-racha-no-pl-valdemar-evita-assumir-posicao-sobre-apoio-a-motta/",
+    "data": "2026-11-13T21:18:53+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "STF tem 3 votos para manter decisão de Dino que flexibiliza folgas após fim da 6×1",
+    "link": "https://www.infomoney.com.br/politica/stf-tem-3-votos-para-manter-decisao-de-dino-que-flexibiliza-folgas-apos-fim-da-6x1/",
+    "data": "2026-11-13T21:18:23+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Índice de Small Caps (SMLL) encerra sessão com ganhos de 1,01%, aos 2.032,89 pontos. semana fico com mais 2,98%",
+    "link": "https://www.infomoney.com.br/live/indice-de-small-caps-smll-encerra-sessao-com-ganhos-de-101-aos-2-03289-pontos-semana-fico-com-mais-298/",
+    "data": "2026-11-13T21:17:33+00:00",
+    "categoria": "Live"
+   },
+   {
+    "titulo": "Índice de BDRs (BDRX) termina com menos 0,41%, aos 29.427,06 pontos; semana fecha com alta de 4,96%",
+    "link": "https://www.infomoney.com.br/live/indice-de-bdrs-bdrx-termina-com-menos-041-aos-29-42706-pontos-semana-fecha-com-alta-de-496/",
+    "data": "2026-11-13T21:17:25+00:00",
+    "categoria": "Live"
+   },
+   {
+    "titulo": "Índice de Fundos Imobiliários (IFIX) encerra pregão com alta de 1,36%, aos 3.615,23 pontos; semana acaba com queda de 0,30%",
+    "link": "https://www.infomoney.com.br/live/indice-de-fundos-imobiliarios-ifix-encerra-pregao-com-alta-de-136-aos-3-61523-pontos-semana-acaba-com-queda-de-030/",
+    "data": "2026-11-13T21:17:07+00:00",
+    "categoria": "Live"
+   },
+   {
+    "titulo": "6 filmes e séries sobre mineração para ver no streaming e no YouTube",
+    "link": "https://www.infomoney.com.br/mercados/6-filmes-e-series-sobre-mineracao-para-ver-no-streaming-e-no-youtube/",
+    "data": "2026-11-13T21:16:19+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Ibovespa termina com alta de 0,66%, aos 172.457,76 pontos",
+    "link": "https://www.infomoney.com.br/live/ibovespa-termina-com-alta-de-066-aos-172-45776-pontos/",
+    "data": "2026-11-13T21:15:03+00:00",
+    "categoria": "Live"
+   },
+   {
+    "titulo": "EUA suspendem decolagens em todo o território americano após falhas de comunicação",
+    "link": "https://www.infomoney.com.br/mundo/agencia-de-aviacao-suspende-decolagens-em-todo-o-territorio-dos-eua/",
+    "data": "2026-11-13T21:12:53+00:00",
+    "categoria": "Mundo"
+   }
+  ],
+  "mercados": [
+   {
+    "titulo": "Trump descarta ataque hacker e IA em apagão que parou voos nos EUA",
+    "link": "https://www.infomoney.com.br/mercados/trump-descarta-ataque-hacker-e-ia-em-apagao-que-parou-voos-nos-eua/",
+    "data": "2026-11-14T03:00:06+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Cosan anuncia saída do CEO Marcelo Martins e nomeia Guilherme Penin como interino",
+    "link": "https://www.infomoney.com.br/mercados/cosan-anuncia-saida-do-ceo-marcelo-martins-e-nomeia-guilherme-penin-como-interino/",
+    "data": "2026-11-14T02:56:23+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Casas Bahia e GPA fazem acordo e encerram disputa por associação de 2009; entenda",
+    "link": "https://www.infomoney.com.br/mercados/casas-bahia-e-gpa-fazem-acordo-e-encerrar-disputam-por-associacao-de-2009-entenda/",
+    "data": "2026-11-13T21:49:56+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Bolsas de NY fecham sem direção única com perdas de techs em meio à crise da Nvidia",
+    "link": "https://www.infomoney.com.br/mercados/wall-street-devolve-ganhos-iniciais-com-queda-de-techs-por-turbulencia-com-nvidia/",
+    "data": "2026-11-13T21:45:22+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Ibovespa sobe 0,66% nesta 6ª e 2,35% na semana com mercado de olho em pacote fiscal",
+    "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-com-apoio-de-petrobras-em-meio-a-incertezas-fiscais-elevadas-no-brasil/",
+    "data": "2026-11-13T21:43:13+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Ibovespa retoma o caminho da vitória e tem segunda semana positiva; dólar sobe",
+    "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-13112026/",
+    "data": "2026-11-13T21:28:53+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "CSN desaba 12% e CSN Mineração cai 3,7% após resultados abaixo do esperado",
+    "link": "https://www.infomoney.com.br/mercados/csn-e-csn-mineracao-caem-forte-apos-resultados-do-3t26-ficarem-abaixo-do-esperado/",
+    "data": "2026-11-13T21:27:30+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Compass e Rumo saltam após balanços e “puxam” Cosan; veja o que agradou mercado",
+    "link": "https://www.infomoney.com.br/mercados/compass-e-rumo-sobem-apos-balancos-e-puxam-cosan-veja-o-que-agradou-mercado/",
+    "data": "2026-11-13T21:24:53+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Natura (NATU3) cai 3,75% mesmo após voltar ao lucro; veja o que preocupa analistas",
+    "link": "https://www.infomoney.com.br/mercados/natura-natu3-cai-5-mesmo-apos-voltar-ao-lucro-veja-o-que-preocupa-analistas/",
+    "data": "2026-11-13T21:22:14+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Cyrela (CYRE3): ações registram ganhos de quase 4% após resultados do 3º tri",
+    "link": "https://www.infomoney.com.br/mercados/cyrela-cyre3-acoes-registram-ganhos-apos-resultados-do-3o-tri/",
+    "data": "2026-11-13T21:20:33+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "6 filmes e séries sobre mineração para ver no streaming e no YouTube",
+    "link": "https://www.infomoney.com.br/mercados/6-filmes-e-series-sobre-mineracao-para-ver-no-streaming-e-no-youtube/",
+    "data": "2026-11-13T21:16:19+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Dólar a R$ 6? O que esperar após moeda atingir máxima em 18 meses",
+    "link": "https://www.infomoney.com.br/mercados/dolar-a-r-6-o-que-esperar-apos-moeda-atingir-maxima-em-18-meses/",
+    "data": "2026-11-13T20:53:49+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Taxas dos DIs fecham em queda de olho em fiscal e dados",
+    "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-fecham-em-queda-de-olho-em-fiscal-e-dados/",
+    "data": "2026-11-13T20:45:58+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Dólar sobe a R$ 5,65, com reação a pacote fiscal; na semana, alta foi de 2,6%",
+    "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-13112026/",
+    "data": "2026-11-13T20:42:54+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Petróleo fecha perto do zero com visão geopolítica e sinal de reequilíbrio pela AIE",
+    "link": "https://www.infomoney.com.br/mercados/petroleo-abertura-fechamento-ira-eua-13112026/",
+    "data": "2026-11-13T20:38:32+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Criptos: bitcoin cai abaixo de US$ 70 mil pela 1ª vez desde agosto com fuga ao risco",
+    "link": "https://www.infomoney.com.br/mercados/criptos-bitcoin-cai-abaixo-de-us-70-mil-pela-1a-vez-desde-agosto-com-fuga-ao-risco/",
+    "data": "2026-11-13T20:36:18+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "JPMorgan mantém Embraer entre preferidas e vê ação 25% mais barata que pares globais",
+    "link": "https://www.infomoney.com.br/mercados/jpmorgan-mantem-embraer-entre-preferidas-e-ve-acao-25-mais-barata-que-pares-globais/",
+    "data": "2026-11-13T19:33:00+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Ordens de ações do IPO da Anthropic vindas da China são rejeitadas, dizem fontes",
+    "link": "https://www.infomoney.com.br/mercados/ordens-de-acoes-do-ipo-da-anthropic-vindas-da-china-sao-rejeitadas-dizem-fontes/",
+    "data": "2026-11-13T19:23:11+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "13/11: Equação marcou o fim do mundo para hoje; veja por que a conta não fechou",
+    "link": "https://www.infomoney.com.br/mercados/13-11-equacao-colocou-o-fim-do-mundo-no-calendario-veja-por-que-a-conta-nao-fechou/",
+    "data": "2026-11-13T18:03:17+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "O que as recompras de ações no Brasil podem indicar para o investidor?",
+    "link": "https://www.infomoney.com.br/mercados/o-que-as-recompras-de-acoes-no-brasil-podem-indicar-para-o-investidor/",
+    "data": "2026-11-13T18:03:04+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "XP amplia opções de alocação com carteiras administradas; conheça",
+    "link": "https://www.infomoney.com.br/mercados/xp-amplia-opcoes-de-alocacao-com-carteiras-administradas-gestao-especializada/",
+    "data": "2026-11-13T18:00:00+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "BB e Petrobras: após decepções com balanços e proventos, o que esperar para ações?",
+    "link": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-e-petrobras-petr3-petr4-apos-decepcoes-com-balancos-e-proventos-o-que-esperar-para-acoes/",
+    "data": "2026-11-13T18:00:00+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "BB: CEO afirma que há 31 mil devedores do agro e abre portas para renegociação",
+    "link": "https://www.infomoney.com.br/mercados/bb-ceo-afirma-que-ha-31-mil-devedores-do-agro-e-abre-portas-para-renegociacao/",
+    "data": "2026-11-13T17:03:09+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Risco fiscal: como as contas públicas podem influenciar dólar, juros e Bolsa?",
+    "link": "https://www.infomoney.com.br/mercados/risco-fiscal-como-as-contas-publicas-podem-influenciar-dolar-juros-bolsa/",
+    "data": "2026-11-13T16:30:00+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "UBS rebaixa Brasil entre ações emergentes e destaca países mais atrativos para 2027",
+    "link": "https://www.infomoney.com.br/mercados/ubs-rebaixa-brasil-entre-acoes-emergentes-e-destaca-paises-mais-atrativos-para-2027/",
+    "data": "2026-11-13T16:28:40+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Do gráfico ao livro: como a metodologia de Júnior Vianna simplifica o Renko",
+    "link": "https://www.infomoney.com.br/mercados/do-grafico-ao-livro-como-metodologia-de-junior-vianna-simplifica-renko/",
+    "data": "2026-11-13T16:11:47+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Mercado de petróleo voltará ao superávit conforme exportações do Golfo se recuperam",
+    "link": "https://www.infomoney.com.br/mercados/mercado-de-petroleo-voltara-ao-superavit-conforme-exportacoes-do-golfo-se-recuperam/",
+    "data": "2026-11-13T15:15:40+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Do alívio à cautela: por que o mercado diminuiu ânimo sobre o pacote de ajuste fiscal",
+    "link": "https://www.infomoney.com.br/mercados/do-alivio-a-cautela-por-que-o-mercado-diminuiu-animo-sobre-o-pacote-de-ajuste-fiscal/",
+    "data": "2026-11-13T15:02:13+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Quando cai o pagamento do Bolsa Família em novembro? Veja valores e como consultar",
+    "link": "https://www.infomoney.com.br/mercados/calendario-bolsa-familia-novembro-2026/",
+    "data": "2026-11-13T14:00:00+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Com falha da Microsoft, investidores recorrem ao WhatsApp e até ao fax para fechar negócios",
+    "link": "https://www.infomoney.com.br/mercados/investidores-recorrem-ao-whatsapp-e-ate-ao-faz-para-fechar-negocios/",
+    "data": "2026-11-13T13:16:52+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Minério de ferro tem queda semanal em Dalian com estoques portuários em alta",
+    "link": "https://www.infomoney.com.br/mercados/minerio-de-ferro-tem-queda-semanal-em-dalian-com-estoques-portuarios-em-alta/",
+    "data": "2026-11-13T12:48:29+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Rumo (RAIL3) tem lucro ajustado de R$ 605 mi no 3T, queda anual de 17,4%",
+    "link": "https://www.infomoney.com.br/mercados/rumo-rail3-tem-lucro-ajustado-de-r-605-mi-no-3t-queda-anual-de-174/",
+    "data": "2026-11-13T12:45:21+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Decreto autoriza aumento de capital social da Telebras",
+    "link": "https://www.infomoney.com.br/mercados/decreto-autoriza-aumento-de-capital-social-da-telebras/",
+    "data": "2026-11-13T12:41:02+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Ações da Microsoft caem mais de 1% em meio a apagão global de serviços da empresa",
+    "link": "https://www.infomoney.com.br/mercados/acoes-da-microsoft-caem-mais-de-1-em-meio-a-apagao-global-de-servicos-da-empresa/",
+    "data": "2026-11-13T12:33:44+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Banco do Brasil (BBAS3) afunda após balanço: ação pode cair ainda mais?",
+    "link": "https://www.infomoney.com.br/mercados/banco-do-brasil-bbas3-afunda-apos-balanco-acao-pode-cair-ainda-mais/",
+    "data": "2026-11-13T12:26:07+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Bitcoin perde US$ 70 mil e amplia queda: até onde o BTC pode cair?",
+    "link": "https://www.infomoney.com.br/mercados/bitcoin-perde-us-70-mil-e-amplia-queda-ate-onde-o-btc-pode-cair/",
+    "data": "2026-11-13T12:24:22+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Ibovespa Futuro opera quase estável com pacote fiscal e Galípolo no radar",
+    "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-opera-quase-estavel-com-pacote-fiscal-e-galipolo-no-radar/",
+    "data": "2026-11-13T12:15:18+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Sanepar, JHSF, Unipar, IMC e mais empresas divulgam resultados no 3T",
+    "link": "https://www.infomoney.com.br/mercados/sanepar-jhsf-unipar-imc-e-mais-empresas-divulgam-resultados-no-3t/",
+    "data": "2026-11-13T12:03:48+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "JPMorgan vê ajuste fiscal insuficiente e recomenda cautela com ações brasileiras",
+    "link": "https://www.infomoney.com.br/mercados/jpmorgan-ve-ajuste-fiscal-insuficiente-e-recomenda-cautela-com-acoes-brasileiras/",
+    "data": "2026-11-13T11:54:24+00:00",
+    "categoria": "Mercados"
+   },
+   {
+    "titulo": "Lucro da JHSF cresce quase 30% no 3º tri",
+    "link": "https://www.infomoney.com.br/mercados/lucro-da-jhsf-cresce-quase-30-no-3o-tri/",
+    "data": "2026-11-13T11:09:21+00:00",
+    "categoria": "Mercados"
+   }
+  ],
+  "economia": [
+   {
+    "titulo": "Subvenção de R$ 1,40 ao diesel importado não será renovada, diz ministério",
+    "link": "https://www.infomoney.com.br/economia/subvencao-de-r140-ao-diesel-importado-nao-sera-renovada-diz-ministerio/",
+    "data": "2026-11-13T22:13:42+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "Galípolo diz que verdade é ‘cara’ e critica ‘especialistas de vídeos na vertical’",
+    "link": "https://www.infomoney.com.br/economia/galipolo-diz-que-verdade-e-cara-e-critica-especialistas-de-videos-na-vertical/",
+    "data": "2026-11-13T19:12:11+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "Alta nas vendas do varejo em setembro foi sustentada pelo consumo de bens essenciais",
+    "link": "https://www.infomoney.com.br/economia/vendas-no-varejo-setembro-ibge-juros-consumo/",
+    "data": "2026-11-13T15:36:32+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "Reforma de programas sociais pode erradicar extrema pobreza no Brasil, aponta estudo",
+    "link": "https://www.infomoney.com.br/economia/reforma-de-programas-sociais-pode-erradicar-extrema-pobreza-no-brasil-aponta-estudo/",
+    "data": "2026-11-13T15:20:34+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "Galípolo: incertezas recomendam a BC não fornecer orientação sobre próximos passos",
+    "link": "https://www.infomoney.com.br/economia/galipolo-incertezas-recomendam-a-bc-nao-fornecer-orientacao-sobre-proximos-passos/",
+    "data": "2026-11-13T15:17:36+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "Galípolo diz que prêmio da curva de juros depende da credibilidade do país",
+    "link": "https://www.infomoney.com.br/economia/galipolo-diz-que-premio-da-curva-de-juros-depende-da-credibilidade-do-pais/",
+    "data": "2026-11-13T14:54:50+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "PPI: inflação ao produtor nos EUA sobe em outubro abaixo da expectativa",
+    "link": "https://www.infomoney.com.br/economia/ppi-inflacao-ao-produtor-nos-eua-sobe-em-outubro-abaixo-da-expectativa/",
+    "data": "2026-11-13T13:43:00+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "Vendas no varejo do Brasil sobem 0,2% em setembro e superam projeções",
+    "link": "https://www.infomoney.com.br/economia/vendas-no-varejo-do-brasil-sobem-02-em-setembro-e-superam-projecoes/",
+    "data": "2026-11-13T12:12:07+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "Entidades industriais criticam cortes de isenções em projeto de ajuste fiscal",
+    "link": "https://www.infomoney.com.br/economia/entidades-industriais-criticam-cortes-de-isencoes-em-projeto-de-ajuste-fiscal/",
+    "data": "2026-11-12T21:49:29+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "Pacote fiscal é bom sinal, mas não toca na estrutura dos gastos, dizem economistas",
+    "link": "https://www.infomoney.com.br/economia/pacote-fiscal-e-bom-sinal-mas-nao-toca-na-estrutura-dos-gastos-dizem-economistas/",
+    "data": "2026-11-12T18:05:34+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "IPCA tem alívio em serviços e núcleos, mas alimentos devem manter Copom em cautela",
+    "link": "https://www.infomoney.com.br/economia/ipca-melhora-servicos-nucleos-riscos-mantem-selic/",
+    "data": "2026-11-12T14:44:48+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "Dívida externa do Brasil sobe 8,7% em 2025, para US$ 659,8 bilhões, diz Banco Mundial",
+    "link": "https://www.infomoney.com.br/economia/divida-externa-do-brasil-sobe-87-em-2025-para-us-6598-bilhoes-diz-banco-mundial/",
+    "data": "2026-11-12T14:30:00+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "Chineses marcam presença na Semana Internacional do Café, em Belo Horizonte",
+    "link": "https://www.infomoney.com.br/economia/chineses-marcam-presenca-na-semana-internacional-do-cafe-em-belo-horizonte/",
+    "data": "2026-11-12T14:28:13+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "Juros altos devem frear Black Friday de 2026, com evolução menor que em 2025, diz CNC",
+    "link": "https://www.infomoney.com.br/economia/vendas-black-friday-2026-juros-inflacao-cnc/",
+    "data": "2026-11-12T13:30:00+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "IPCA: inflação sobe 0,14% em outubro, abaixo do esperado, com queda em energia",
+    "link": "https://www.infomoney.com.br/economia/ipca-inflacao-outubro-2026-dados-ibge/",
+    "data": "2026-11-12T12:00:54+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "China pode ditar futuro da indústria se Brasil não reagir, alertam especialistas",
+    "link": "https://www.infomoney.com.br/economia/china-futuro-industria-brasileira-alerta/",
+    "data": "2026-11-12T10:01:00+00:00",
+    "categoria": "Economia"
+   },
+   {
+    "titulo": "Inflação alta nos EUA e novo Congresso abrem brechas para reduzir tarifas do Brasil",
+    "link": "https://www.infomoney.com.br/economia/exportacoes-brasil-eua-inflacao-congresso-reducao-tarifas/",
+    "data": "2026-11-12T08:00:00+00:00",
+    "categoria": "Economia"
+   }
+  ],
+  "politica": [
+   {
+    "titulo": "Toffoli dá três dias para Lula e Alckmin explicarem despesas de campanha",
+    "link": "https://www.infomoney.com.br/politica/toffoli-da-tres-dias-para-lula-e-alckmin-explicarem-despesas-de-campanha/",
+    "data": "2026-11-13T22:16:10+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Em meio a racha no PL, Valdemar evita assumir posição sobre apoio a Motta",
+    "link": "https://www.infomoney.com.br/politica/em-meio-a-racha-no-pl-valdemar-evita-assumir-posicao-sobre-apoio-a-motta/",
+    "data": "2026-11-13T21:18:53+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "STF tem 3 votos para manter decisão de Dino que flexibiliza folgas após fim da 6×1",
+    "link": "https://www.infomoney.com.br/politica/stf-tem-3-votos-para-manter-decisao-de-dino-que-flexibiliza-folgas-apos-fim-da-6x1/",
+    "data": "2026-11-13T21:18:23+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Câmara pede ao STF que reveja parte das regras de Dino para a transição da escala 6×1",
+    "link": "https://www.infomoney.com.br/politica/camara-pede-ao-stf-que-reveja-parte-das-regras-de-dino-para-a-transicao-da-escala-6x1/",
+    "data": "2026-11-13T20:50:45+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Gilmar defende cautela com reforma no Judiciário e diz que Lava Jato ‘deu errado’",
+    "link": "https://www.infomoney.com.br/politica/gilmar-defende-cautela-com-reforma-no-judiciario-e-diz-que-lava-jato-deu-errado/",
+    "data": "2026-11-13T20:37:30+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Fachin defende indicação de mulher negra para vaga no STF aberta há mais de um ano",
+    "link": "https://www.infomoney.com.br/politica/fachin-defende-indicacao-de-mulher-negra-para-vaga-no-stf-aberta-ha-mais-de-um-ano/",
+    "data": "2026-11-13T20:37:10+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Na COP31, Brasil apresenta plataforma para monitorar ações da política climática",
+    "link": "https://www.infomoney.com.br/politica/na-cop31-brasil-apresenta-plataforma-para-monitorar-acoes-da-politica-climatica/",
+    "data": "2026-11-13T20:36:51+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Pane da Microsoft: STF suspende prazos de processos em todo o país",
+    "link": "https://www.infomoney.com.br/politica/pane-da-microsoft-stf-suspende-prazos-de-processos-em-todo-o-pais/",
+    "data": "2026-11-13T19:33:06+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Flávio rejeita apoiar Motta em meio à embate no PL sobre presidência da Câmara",
+    "link": "https://www.infomoney.com.br/politica/flavio-rejeita-apoiar-motta-em-meio-a-embate-no-pl-sobre-presidencia-da-camara/",
+    "data": "2026-11-13T18:20:19+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Após decisão de Zanin, AGU se manifesta contra pedido do PSD sobre 2º turno no Rio",
+    "link": "https://www.infomoney.com.br/politica/apos-decisao-de-zanin-agu-se-manifesta-contra-pedido-do-psd-sobre-2o-turno-no-rio/",
+    "data": "2026-11-13T18:14:06+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Raquel Lyra critica ajuste fiscal e cobra mudanças para preservar receitas estaduais",
+    "link": "https://www.infomoney.com.br/politica/raquel-lyra-critica-ajuste-fiscal-e-cobra-mudancas-para-preservar-receitas-estaduais/",
+    "data": "2026-11-13T18:05:07+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Tarcísio terá dificuldade para liderar direita sem romper com Bolsonaro, diz analista",
+    "link": "https://www.infomoney.com.br/politica/tarcisio-tera-dificuldade-para-liderar-direita-sem-romper-com-bolsonaro-diz-analista/",
+    "data": "2026-11-13T17:00:00+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Moretti: governo fará qualquer medida em acréscimo para ter cenário fiscal benigno",
+    "link": "https://www.infomoney.com.br/politica/moretti-governo-fara-qualquer-medida-em-acrescimo-para-ter-cenario-fiscal-benigno/",
+    "data": "2026-11-13T16:35:58+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Veja os pontos principais do projeto de ajuste fiscal aprovado pelo Senado",
+    "link": "https://www.infomoney.com.br/politica/veja-os-pontos-principais-do-projeto-de-ajuste-fiscal-aprovado-pelo-senado/",
+    "data": "2026-11-13T16:01:19+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Veja as razões da PGR para rejeitar a revisão de condenação de Jair Bolsonaro",
+    "link": "https://www.infomoney.com.br/politica/veja-as-razoes-da-pgr-para-rejeitar-a-revisao-de-condenacao-de-jair-bolsonaro/",
+    "data": "2026-11-13T15:57:38+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Kassab diz que vê com otimismo posição do governo sobre ajuste fiscal",
+    "link": "https://www.infomoney.com.br/politica/kassab-diz-que-ve-com-otimismo-posicao-do-governo-sobre-ajuste-fiscal/",
+    "data": "2026-11-13T15:52:46+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Atlas/Bloomberg: 52% dizem que eleição refletiu vontade de eleitores; 42% veem fraude",
+    "link": "https://www.infomoney.com.br/politica/atlas-bloomberg-52-dizem-que-eleicao-refletiu-vontade-de-eleitores-42-veem-fraude/",
+    "data": "2026-11-13T15:42:26+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Atlas/Bloomberg: 52% veem saída de Flávio do Brasil como desrespeito à Justiça",
+    "link": "https://www.infomoney.com.br/politica/atlas-bloomberg-52-veem-saida-de-flavio-do-brasil-como-desrespeito-a-justica/",
+    "data": "2026-11-13T14:45:03+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Atlas/Bloomberg: 56% veem como ‘muito provável’ revelação de corrupção em 6 meses",
+    "link": "https://www.infomoney.com.br/politica/atlas-bloomberg-56-veem-como-muito-provavel-revelacao-de-corrupcao-em-6-meses/",
+    "data": "2026-11-13T14:19:18+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Nos EUA, Flávio vota contra ajuste fiscal do governo Lula",
+    "link": "https://www.infomoney.com.br/politica/apos-defender-tesouraco-flavio-vota-dos-eua-contra-ajuste-do-governo-lula/",
+    "data": "2026-11-13T13:38:20+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Ajuste fiscal: Motta vai reunir líderes para definir votação na Câmara",
+    "link": "https://www.infomoney.com.br/politica/ajuste-fiscal-motta-vai-reunir-lideres-para-definir-votacao-na-camara/",
+    "data": "2026-11-13T13:30:53+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Aprovação de ajuste fiscal teve ação de Alcolumbre e contenção de críticas no PT",
+    "link": "https://www.infomoney.com.br/politica/aprovacao-de-ajuste-fiscal-teve-acao-de-alcolumbre-e-contencao-de-criticas-no-pt/",
+    "data": "2026-11-13T13:29:31+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "STF nega reconhecer perdas de planos econômicos de quem não aderiu a acordo",
+    "link": "https://www.infomoney.com.br/politica/stf-nega-reconhecer-perdas-de-planos-economicos-de-quem-nao-aderiu-a-acordo/",
+    "data": "2026-11-13T13:20:26+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Douglas Ruas escolhe delegado de São Gonçalo para comandar Segurança Pública do Rio",
+    "link": "https://www.infomoney.com.br/politica/douglas-ruas-escolhe-delegado-de-sao-goncalo-para-comandar-seguranca-publica-do-rio/",
+    "data": "2026-11-13T13:18:59+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "COP31: Ministério das Cidades quer desenhar Mapa do Caminho para resiliência urbana",
+    "link": "https://www.infomoney.com.br/politica/cop31-ministerio-das-cidades-quer-desenhar-mapa-do-caminho-para-resiliencia-urbana/",
+    "data": "2026-11-13T13:15:46+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Direita precisa superar antipetismo para construir projeto político, diz Lynch",
+    "link": "https://www.infomoney.com.br/politica/direita-precisa-superar-antipetismo-para-construir-projeto-politico-diz-lynch/",
+    "data": "2026-11-13T09:00:00+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Senado aprova texto-base de ajuste fiscal do governo Lula por 45 votos a 31",
+    "link": "https://www.infomoney.com.br/politica/senado-aprova-texto-base-do-ajuste-fiscal-do-governo-lula-por-45-votos-a-31/",
+    "data": "2026-11-13T00:28:47+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Braga preserva Fundo do DF e desoneração da folha em novo relatório do ajuste fiscal",
+    "link": "https://www.infomoney.com.br/politica/braga-preserva-fundo-do-df-e-desoneracao-da-folha-em-novo-relatorio-do-ajuste-fiscal/",
+    "data": "2026-11-12T23:46:48+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Fim da escala 6×1: STF analisa a partir de sexta-feira decisão de Dino",
+    "link": "https://www.infomoney.com.br/politica/fim-da-escala-6x1-stf-analisa-a-partir-de-sexta-feira-decisao-de-dino/",
+    "data": "2026-11-12T22:40:33+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Zanin rejeita pedido do PSD para realizar segundo turno entre Ruas e Paes no Rio",
+    "link": "https://www.infomoney.com.br/politica/zanin-rejeita-pedido-do-psd-para-realizar-segundo-turno-entre-ruas-e-paes-no-rio/",
+    "data": "2026-11-12T21:43:17+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Alcolumbre nega pedido de leitura da CPMI do Master: ‘Já foi decidido’",
+    "link": "https://www.infomoney.com.br/politica/alcolumbre-nega-pedido-de-leitura-da-cpmi-do-master-ja-foi-decidido/",
+    "data": "2026-11-12T21:29:54+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Motta anuncia grupo de trabalho para discutir propaganda eleitoral nas redes sociais",
+    "link": "https://www.infomoney.com.br/politica/motta-anuncia-grupo-de-trabalho-para-discutir-propaganda-eleitoral-nas-redes-sociais/",
+    "data": "2026-11-12T19:40:49+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Congresso dá aval para créditos suplementares e especiais; veja o que foi aprovado",
+    "link": "https://www.infomoney.com.br/politica/congresso-da-aval-para-creditos-suplementares-e-especiais-veja-o-que-foi-aprovado/",
+    "data": "2026-11-12T19:07:45+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "COP31: BNDES anuncia pacote com potencial de captar R$ 39 bi para projetos climáticos",
+    "link": "https://www.infomoney.com.br/politica/cop31-bndes-anuncia-pacote-com-potencial-de-captar-r-39-bi-para-projetos-climaticos/",
+    "data": "2026-11-12T19:03:09+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Vacina para herpes: após aval do Senado, projeto que inclui dose no SUS vai à Câmara",
+    "link": "https://www.infomoney.com.br/politica/vacina-para-herpes-apos-aval-do-senado-projeto-que-inclui-dose-no-sus-vai-a-camara/",
+    "data": "2026-11-12T18:45:04+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Congresso aprova crédito de R$ 149 bi para Bolsa Família, BPC e Previdência",
+    "link": "https://www.infomoney.com.br/politica/congresso-aprova-credito-de-r-149-bi-para-bolsa-familia-bpc-e-previdencia/",
+    "data": "2026-11-12T16:43:04+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "‘Mentira está prevalecendo sobre a verdade’: Alcolumbre defende licitação de Iphones",
+    "link": "https://www.infomoney.com.br/politica/mentira-esta-prevalecendo-sobre-a-verdade-alcolumbre-defende-licitacao-de-iphones/",
+    "data": "2026-11-12T16:20:10+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Lula faz live com Janones na COP31 na Turquia e repete modelo do 2º turno da campanha",
+    "link": "https://www.infomoney.com.br/politica/lula-faz-live-com-janones-na-cop31-na-turquia-e-repete-modelo-do-2o-turno-da-campanha/",
+    "data": "2026-11-12T16:14:38+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Alcolumbre é questionado sobre CPMI do Master e reafirma que decisão cabe a ele",
+    "link": "https://www.infomoney.com.br/politica/alcolumbre-e-questionado-sobre-cpmi-do-master-e-reafirma-que-decisao-cabe-a-ele/",
+    "data": "2026-11-12T15:16:54+00:00",
+    "categoria": "Política"
+   },
+   {
+    "titulo": "Caso Master: Fachin atende a pedido da PF e prorroga investigação sobre Ciro Nogueira",
+    "link": "https://www.infomoney.com.br/politica/caso-master-fachin-atende-a-pedido-da-pf-e-prorroga-investigacao-sobre-ciro-nogueira/",
+    "data": "2026-11-12T15:09:03+00:00",
+    "categoria": "Política"
+   }
+  ],
+  "mundo": [
+   {
+    "titulo": "Falha de IA ou ataque hacker? O que se sabe sobre o apagão que parou os voos nos EUA",
+    "link": "https://www.infomoney.com.br/mundo/falha-de-ia-ou-ataque-hacker-o-que-se-sabe-sobre-o-apagao-que-parou-os-voos-nos-eua/",
+    "data": "2026-11-14T02:52:38+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "“Vai levar tempo”: EUA reabrem espaço aéreo, mas governo alerta para retomada lenta",
+    "link": "https://www.infomoney.com.br/mundo/vai-levar-tempo-eua-reabrem-espaco-aereo-mas-governo-alerta-para-retomada-lenta/",
+    "data": "2026-11-14T02:48:14+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Trump vai se reunir com Xi e Putin na China",
+    "link": "https://www.infomoney.com.br/mundo/trump-vai-se-reunir-com-xi-e-putin-na-china/",
+    "data": "2026-11-14T02:45:15+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "EUA retomam voos após apagão de mais de quatro horas no controle aéreo",
+    "link": "https://www.infomoney.com.br/mundo/eua-retomam-voos-apos-apagao-de-mais-de-quatro-horas-no-controle-aereo/",
+    "data": "2026-11-14T02:38:45+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Voos cancelados nos EUA ultrapassam 3 mil; partidas do Brasil para o Canadá atrasam",
+    "link": "https://www.infomoney.com.br/mundo/voos-cancelados-nos-eua-ultrapassam-3-mil-partidas-do-brasil-para-o-canada-atrasam/",
+    "data": "2026-11-14T00:26:19+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Falha do tráfego aéreo não será resolvida de forma rápida, diz secretário dos EUA",
+    "link": "https://www.infomoney.com.br/mundo/falha-do-trafego-aereo-nao-sera-resolvida-de-forma-rapida-diz-secretario-dos-eua/",
+    "data": "2026-11-13T23:54:40+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Serviço Nacional de Meteorologia dos EUA relata problemas de internet em todo o país",
+    "link": "https://www.infomoney.com.br/mundo/servico-nacional-de-meteorologia-dos-eua-relata-problemas-de-internet-em-todo-o-pais/",
+    "data": "2026-11-13T23:07:15+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "EUA suspendem decolagens em todo o país pela primeira vez desde 2023",
+    "link": "https://www.infomoney.com.br/mundo/eua-suspendem-decolagens-em-todo-o-pais-pela-primeira-vez-desde-2023/",
+    "data": "2026-11-13T22:45:05+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Não é outro 11 de Setembro, diz secretário dos EUA sobre pane que paralisou voos",
+    "link": "https://www.infomoney.com.br/mundo/nao-e-outro-11-de-setembro-diz-secretario-dos-eua-sobre-pane-que-paralisou-voos/",
+    "data": "2026-11-13T22:33:37+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "FBI investiga se atualização de software provocou apagão aéreo nos EUA",
+    "link": "https://www.infomoney.com.br/mundo/fbi-investiga-se-atualizacao-de-software-provocou-apagao-aereo-nos-eua/",
+    "data": "2026-11-13T22:22:44+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "EUA suspendem decolagens em todo o território americano após falhas de comunicação",
+    "link": "https://www.infomoney.com.br/mundo/agencia-de-aviacao-suspende-decolagens-em-todo-o-territorio-dos-eua/",
+    "data": "2026-11-13T21:12:53+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "EUA e China realizam primeira reunião de conselho para gerir comércio bilateral",
+    "link": "https://www.infomoney.com.br/mundo/eua-e-china-realizam-primeira-reuniao-de-conselho-para-gerir-comercio-bilateral/",
+    "data": "2026-11-13T19:52:18+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Procuradoria do Paraguai acrescenta acusação de associação criminosa contra Peña",
+    "link": "https://www.infomoney.com.br/mundo/procuradoria-do-paraguai-acrescenta-acusacao-de-associacao-criminosa-contra-pena/",
+    "data": "2026-11-13T19:46:43+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Trump afasta Vance do Irã após vice ligar a guerra à perda do Congresso",
+    "link": "https://www.infomoney.com.br/mundo/trump-afasta-vance-do-ira-apos-vice-ligar-a-guerra-a-perda-do-congresso/",
+    "data": "2026-11-13T17:24:45+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Guterres afirma que aumento da temperatura global acima de 1,5ºC é inevitável",
+    "link": "https://www.infomoney.com.br/mundo/guterres-afirma-que-aumento-da-temperatura-global-acima-de-15oc-e-inevitavel/",
+    "data": "2026-11-13T15:41:00+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Goolsbee diz na CNBC que Fed precisa se precaver contra superaquecimento da demanda",
+    "link": "https://www.infomoney.com.br/mundo/goolsbee-diz-na-cnbc-que-fed-precisa-se-precaver-contra-superaquecimento-da-demanda/",
+    "data": "2026-11-13T14:56:06+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Falha da Microsoft afeta hospitais, serviços da polícia e tribunais na Europa",
+    "link": "https://www.infomoney.com.br/mundo/falha-da-microsoft-afeta-hospitais-servicos-da-policia-e-tribunais-na-europa/",
+    "data": "2026-11-13T14:33:43+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Irã relata explosão de navio de GNL em Ormuz e de sistema de radar dos EUA no Bahrein",
+    "link": "https://www.infomoney.com.br/mundo/ira-relata-explosao-de-navio-de-gnl-em-ormuz-e-de-sistema-de-radar-dos-eua-no-bahrein/",
+    "data": "2026-11-13T11:34:10+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "IA, comércio, defesa: os eixos da segunda viagem seguida de Lula à ASEAN",
+    "link": "https://www.infomoney.com.br/mundo/ia-comercio-defesa-os-eixos-da-segunda-viagem-seguida-de-lula-a-asean/",
+    "data": "2026-11-13T10:00:00+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Hackers norte-coreanos roubam mais de US$400 mi usando imagens de vídeo, diz FBI",
+    "link": "https://www.infomoney.com.br/mundo/hackers-norte-coreanos-roubam-mais-de-us400-mi-usando-imagens-de-video-diz-fbi/",
+    "data": "2026-11-12T22:35:08+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "ICE registra recorde de prisões de imigrantes e deportações desde sua criação",
+    "link": "https://www.infomoney.com.br/mundo/ice-registra-recorde-de-prisoes-de-imigrantes-e-deportacoes-desde-sua-criacao/",
+    "data": "2026-11-12T21:40:21+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "EUA: Rubio, Vance e Ossoff largam na frente na corrida de 2028, diz pesquisa",
+    "link": "https://www.infomoney.com.br/mundo/eua-rubio-vance-e-ossoff-largam-na-frente-na-corrida-de-2028-diz-pesquisa/",
+    "data": "2026-11-12T17:46:20+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "De fuzis à mostra, quadrilha faz roubo ousado à joalheria de luxo no coração de Paris",
+    "link": "https://www.infomoney.com.br/mundo/de-fuzis-a-mostra-quadrilha-faz-roubo-ousado-a-joalheria-de-luxo-no-coracao-de-paris/",
+    "data": "2026-11-12T16:33:41+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "EUA: 5 pessoas são baleadas em bairro nobre de Washington, perto da Casa Branca",
+    "link": "https://www.infomoney.com.br/mundo/eua-5-pessoas-sao-baleadas-em-bairro-nobre-de-washington-perto-da-casa-branca/",
+    "data": "2026-11-12T15:23:38+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Paraguai faz operação na residência presidencial no âmbito da investigação sobre Peña",
+    "link": "https://www.infomoney.com.br/mundo/paraguai-faz-operacao-na-residencia-presidencial-no-ambito-da-investigacao-sobre-pena/",
+    "data": "2026-11-12T15:19:11+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Trump ameaça dobrar tarifas sobre México caso país não barre imigrantes",
+    "link": "https://www.infomoney.com.br/mundo/trump-ameaca-dobrar-tarifas-sobre-mexico-caso-pais-nao-barre-imigrantes/",
+    "data": "2026-11-12T13:36:27+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Mulher de CEO da Nvidia pode receber US$ 75 bilhões em eventual acordo de divórcio",
+    "link": "https://www.infomoney.com.br/mundo/mulher-de-ceo-da-nvidia-pode-receber-us-75-bilhoes-em-eventual-acordo-de-divorcio/",
+    "data": "2026-11-12T12:19:39+00:00",
+    "categoria": "Mundo"
+   },
+   {
+    "titulo": "Chinesa suspeita de espionar CEO da Nvidia visitou Taiwan oito vezes em dois anos",
+    "link": "https://www.infomoney.com.br/mundo/chinesa-suspeita-de-espionar-ceo-da-nvidia-visitou-taiwan-oito-vezes-em-dois-anos/",
+    "data": "2026-11-12T12:10:00+00:00",
+    "categoria": "Mundo"
+   }
+  ]
+ }
+}
